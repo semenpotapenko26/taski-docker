@@ -119,5 +119,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          # Тут вместо username должен быть ваш логин на Docker Hub
           tags: sempo26/taski_gateway:latest
